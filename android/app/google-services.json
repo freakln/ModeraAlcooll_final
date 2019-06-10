@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "857356881598",
+    "firebase_url": "https://alconomia-c7927.firebaseio.com",
+    "project_id": "alconomia-c7927",
+    "storage_bucket": "alconomia-c7927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857356881598:android:0bb7db9300333dd2",
+        "android_client_info": {
+          "package_name": "alconomia.com.moderalcool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857356881598-j5l3aqd1pm3m9jlqmlkgl65cvsqetjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihorHj0bx-GIDj-DUjizGLEc0Jo2zdZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857356881598-j5l3aqd1pm3m9jlqmlkgl65cvsqetjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857356881598:android:dee13bf9b58c640c",
+        "android_client_info": {
+          "package_name": "tis.com.alconomia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857356881598-j5l3aqd1pm3m9jlqmlkgl65cvsqetjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihorHj0bx-GIDj-DUjizGLEc0Jo2zdZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857356881598-j5l3aqd1pm3m9jlqmlkgl65cvsqetjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
